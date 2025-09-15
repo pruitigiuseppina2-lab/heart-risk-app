@@ -11,3 +11,6 @@ st.write(
     Usa il menu nella **sidebar** per navigare tra le pagine.
     """
 )
+
+from ui import render_footer
+render_footer("Giuseppina Pruiti", "https://www.linkedin.com/in/<username>", "https://github.com/pruitigiuseppina2-lab/heart-risk-app")
